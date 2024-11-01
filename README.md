@@ -6,7 +6,7 @@
 - Regression:回归，输出是一个标量
 - classfication:分类，给出选项，选出正确的一个。
 - structed learning：结构学习。创造一些新的事物
-![alt text](image.png)
+![alt text](./Image/image.png)
 ## 机器学习过程
 > 下述步骤是训练的过程：1.找出函数：具有特征和未知参数的函数；2.定义Loss函数；3.优化：求解最优未知参数
 ### 1.具有未知参数的function —— 定义神经网络
